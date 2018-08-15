@@ -12,4 +12,20 @@ sidebar:
         url: https://github.com/mawah
       - title: "GitHub (personal)"
         url: https://github.com/mewahl
+  - title: "Data Science"
+    children:
+      - title: "Projects at Microsoft"
+        url: /projects
+  - title: "Research"
+    url: /research
+  - title: "Teaching"
+    children:
+      - title: "Harvard College Fellowship"
+        url: /harvardcollegefellowship
+      - title: "Grad school"
+        url: /teachinggradschool
+      - title: "Undergrad"
+        url: /teachingundergrad
+      - title: "Outreach"
+        url: /outreach
 
