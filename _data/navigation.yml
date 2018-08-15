@@ -1,0 +1,15 @@
+main:
+  - title: "Main"
+    url: /
+sidebar:
+  - title: "Contact"
+    children:
+      - title: "Email"
+        url: mailto:mary.e.wahlatgmail.com
+      - title: "LinkedIn"
+        url: https://www.linkedin.com/in/mewahl/
+      - title: "GitHub (work)"
+        url: https://github.com/mawah
+      - title: "GitHub (personal)"
+        url: https://github.com/mewahl
+
