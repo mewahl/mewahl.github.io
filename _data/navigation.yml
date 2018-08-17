@@ -15,17 +15,19 @@ sidebar:
   - title: "Data Science"
     children:
       - title: "Projects at Microsoft"
-        url: /projects
+        url: /datascience/msft
   - title: "Research"
     url: /research
   - title: "Teaching"
     children:
       - title: "Harvard College Fellowship"
-        url: /harvardcollegefellowship
+        url: /teaching/harvardcollegefellowship
       - title: "Grad school"
-        url: /teachinggradschool
+        url: /teaching/gradschool
       - title: "Undergrad"
-        url: /teachingundergrad
-      - title: "Outreach"
-        url: /outreach
+        url: /teaching/undergrad
+      - title: "Other"
+        url: /teaching/other
+  - title: Volunteering
+    url: /volunteering
 

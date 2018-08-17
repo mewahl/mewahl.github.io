@@ -1,6 +1,6 @@
 ---
 title: Teaching in Grad School
-permalink: /teachinggradschool/
+permalink: /teaching/gradschool/
 sidebar:
   nav: "sidebar"
 ---
