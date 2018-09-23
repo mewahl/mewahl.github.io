@@ -2,32 +2,35 @@ main:
   - title: "Main"
     url: /
 sidebar:
-  - title: "Contact"
-    children:
-      - title: "Email"
-        url: mailto:mary.e.wahlatgmail.com
-      - title: "LinkedIn"
-        url: https://www.linkedin.com/in/mewahl/
-      - title: "GitHub (work)"
-        url: https://github.com/mawah
-      - title: "GitHub (personal)"
-        url: https://github.com/mewahl
   - title: "Data Science"
     children:
       - title: "Projects at Microsoft"
         url: /datascience/msft
+      - title: "Presentations"
+        url: /datascience/presentations
   - title: "Research"
-    url: /research
+    children:
+      - title: "Harvard College Fellowship"
+        url: /research/fellowship
+      - title: "Grad School"
+        url: /research/gradschool
+      - title: "Undergraduate"
+        url: /research/undergrad
   - title: "Teaching"
     children:
       - title: "Harvard College Fellowship"
         url: /teaching/harvardcollegefellowship
-      - title: "Grad school"
+      - title: "Grad School"
         url: /teaching/gradschool
-      - title: "Undergrad"
+      - title: "Undergraduate"
         url: /teaching/undergrad
       - title: "Other"
         url: /teaching/other
   - title: Volunteering
-    url: /volunteering
-
+    children:
+      - title: "Community & Academic Service"
+        url: /volunteering
+  - title: "Contact"
+    children:
+      - title: "Options"
+        url: /contactlist
